@@ -1,4 +1,4 @@
-cat <<EOT > README.md
+
 __Springboard__
 # London House Price Analysis
 
@@ -65,4 +65,3 @@ git commit -m "Added README for Unit 4 Challenge"
 git push origin main
 \`\`\`
 
-EOT
