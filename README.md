@@ -56,12 +56,5 @@ This project is for educational purposes as part of the **Springboard Data Scien
 
 ---
 
-### **🚀 How to Add This README to Your Repo**
-After saving the **README.md** file in your project folder, run the following Git commands:
 
-\`\`\`bash
-git add README.md
-git commit -m "Added README for Unit 4 Challenge"
-git push origin main
-\`\`\`
 
